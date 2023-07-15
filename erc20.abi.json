@@ -2,3 +2,4 @@
     {
         "constant": true,
         "inputs": [],
+        "name": "name",
