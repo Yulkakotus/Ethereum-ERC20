@@ -18,3 +18,4 @@
         "inputs": [
             {
                 "name": "_spender",
+                "type": "address"
