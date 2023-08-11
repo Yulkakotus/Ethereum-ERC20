@@ -33,3 +33,4 @@
             }
         ],
         "payable": false,
+        "stateMutability": "nonpayable",
