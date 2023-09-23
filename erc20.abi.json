@@ -70,3 +70,4 @@
             }
         ],
         "payable": false,
+        "stateMutability": "nonpayable",
