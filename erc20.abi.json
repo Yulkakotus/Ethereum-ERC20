@@ -76,3 +76,4 @@
     {
         "constant": true,
         "inputs": [],
+        "name": "totalSupply",
