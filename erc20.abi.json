@@ -84,3 +84,4 @@
             }
         ],
         "payable": false,
+        "stateMutability": "view",
