@@ -99,3 +99,4 @@
                 "type": "uint256"
             }
         ],
+        "name": "approve",
