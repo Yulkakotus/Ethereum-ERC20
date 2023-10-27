@@ -103,3 +103,4 @@
         "outputs": [
             {
                 "name": "",
+                "type": "bool"
