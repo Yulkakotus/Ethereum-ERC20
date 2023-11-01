@@ -106,3 +106,4 @@
                 "type": "bool"
             }
         ],
+        "payable": false,
