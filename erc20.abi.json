@@ -114,3 +114,4 @@
         "constant": true,
         "inputs": [],
         "name": "totalSupply",
+        "outputs": [
