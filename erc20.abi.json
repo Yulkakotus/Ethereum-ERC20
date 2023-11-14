@@ -120,3 +120,4 @@
                 "type": "uint256"
             }
         ],
+        "payable": false,
