@@ -121,3 +121,4 @@
             }
         ],
         "payable": false,
+        "stateMutability": "view",
